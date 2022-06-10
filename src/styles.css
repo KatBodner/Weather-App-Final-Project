@@ -1,0 +1,75 @@
+body {
+    background: #abd0db;
+    font-family: "Noto Sans Display", sans-serif;
+  }
+  
+  .container {
+    margin: 200px auto;
+    width: 600px;
+    height: 340px;
+  }
+  
+  #search-field {
+    width: 85%;
+    padding: 10px 35px 10px 15px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+  }
+  
+  #search-button {
+    text-align: center;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    background-color: #ffffff;
+  }
+  
+  #search-button:hover {
+    background-color: #0980d0;
+    color: #ffffff;
+  }
+
+  p.atmosphere {
+    margin: 0; 
+    font-size: 20px;
+  }
+  
+  .col-2, .col-5  {
+    text-align: center;
+  }
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
+  
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    list-style: none;
+  }
+
+  h2 strong {
+    line-height: 1;
+    font-weight: 400;
+    font-size: larger;
+  } 
+
+  h2 .units { 
+    position: relative;
+    top: -17px;
+    font-size: 14px;
+    font-weight: 200;
+  }
+
+  h2 #temperatureElement {
+    margin: 0 auto;
+  }
