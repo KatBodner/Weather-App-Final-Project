@@ -8,6 +8,23 @@ body {
     width: 600px;
     height: 340px;
   }
+
+  h2 .units { 
+    position: relative;
+    top: -17px;
+    font-size: 14px;
+    font-weight: 200;
+  }
+
+  h2 #temperatureElement {
+    margin: 0 auto;
+  }
+
+  h2 strong {
+    line-height: 1;
+    font-weight: 400;
+    font-size: larger;
+  } 
   
   #search-field {
     width: 85%;
@@ -57,19 +74,5 @@ body {
     list-style: none;
   }
 
-  h2 strong {
-    line-height: 1;
-    font-weight: 400;
-    font-size: larger;
-  } 
-
-  h2 .units { 
-    position: relative;
-    top: -17px;
-    font-size: 14px;
-    font-weight: 200;
-  }
-
-  h2 #temperatureElement {
-    margin: 0 auto;
-  }
+  
+  
