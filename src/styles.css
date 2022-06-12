@@ -17,11 +17,10 @@ body {
   }
 
 
-  h2 strong {
-    line-height: 1;
-    font-weight: 400;
-    font-size: larger;
-  } 
+  h2 #temperatureElement {
+    margin: 0 auto;
+  }
+  
   
   #search-field {
     width: 92%;
