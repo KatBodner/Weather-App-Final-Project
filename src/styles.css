@@ -9,18 +9,18 @@ body {
     height: 340px;
   }
 
-  h2 .units { 
+  div .unit { 
     position: relative;
     top: -17px;
     font-size: 14px;
     font-weight: 200;
   }
 
-  h2 #temperatureElement {
+  div #temperatureElement {
     margin: 0 auto;
   }
 
-  h2 strong {
+  div strong {
     line-height: 1;
     font-weight: 400;
     font-size: larger;
