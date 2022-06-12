@@ -96,3 +96,5 @@ function showWeather(response) {
 
       getForecast(response.data.coord);
     }
+
+    showCity("Berlin");
