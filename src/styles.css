@@ -9,7 +9,7 @@ body {
     height: 340px;
   }
 
-  div .unit { 
+  h2 .unit { 
     position: relative;
     top: -17px;
     font-size: 14px;
